@@ -1,15 +1,9 @@
 ### Hi there 👋
 
-### :woman_technologist: &nbsp;About Me :
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-congcuongnguyen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cong-cuong-nguyen-front-end-developer/)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🏗️ I'm currently working as an architect by day ☀️
+- 💻 And practicing to become a front-end developer by night 🌙
+- 🎯 My target is getting a job in Tech Industry in the end of 2023
+- 📫 How to reach me: &nbsp; [![LinkedIn][LinkedIn]][LinkedIn-url]
 
 ### 🛠 &nbsp;Languages and Tools :
 [![Next][Next.js]][Next-url]
@@ -20,10 +14,17 @@
 ![CSS][CSS]
 ![Python][Python]
 
-
-
+### 🔎 Check out some of my apps:
+- [Portfolio Management][portfolio-management-url]
+- [Just Do It][just-do-it-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
+[LinkedIn]: https://img.shields.io/badge/-cuongcode-blue?style=flat-square&logo=Linkedin&logoColor=white
+[LinkedIn-url]: https://www.linkedin.com/in/cong-cuong-nguyen-front-end-developer/
+
+[just-do-it-url]: https://todo-app-cuongcode.vercel.app/
+[portfolio-management-url]: https://portfolio-management-pi.vercel.app/
+
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
