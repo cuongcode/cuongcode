@@ -2,9 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=cuongcode&style=flat-square&color=blue" alt=""/>
 
-- 🏗️ I'm currently working as an Architect by day ☀️
-- 💻 And practicing to become a Front-end Developer by night 🌙
-- 🎯 My target is getting a job in Tech Industry in the end of 2023
+- 💻 I'm a front-end developer ☀️
 - 📫 My profile: &nbsp; [![LinkedIn][LinkedIn]][LinkedIn-url]
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=cuongcode&show_icons=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
@@ -12,15 +10,20 @@
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
-![HTML][HTML]
+<!-- ![HTML][HTML]
 ![CSS][CSS]
 ![JavaScript][JavaScript]
-[![Python][Python]][Python-url] <br>
+[![Python][Python]][Python-url] <br> -->
 
 [![React][React.js]][React-url]
 [![Next][Next.js]][Next-url]
 [![TypeScript][TypeScript]][TypeScript-url]
 [![TailwindCSS][TailwindCSS]][TailwindCSS-url] <br>
+
+![Redux]
+![Firebase]
+![Storybook]
+![Jest] <br>
 
 [![Git][Git]][Git-url]
 ![Adobe Photoshop][Adobe Photoshop]
@@ -30,6 +33,8 @@
 ---
 
 ### 🔎 My Apps:
+
+- [We Order][we-order-url]
 - [Portfolio Management][portfolio-management-url]
 - [Just Do It][just-do-it-url]
 
@@ -61,9 +66,16 @@
 [TailwindCSS]: https://img.shields.io/badge/TailwindCSS-20232A?style=for-the-badge&logo=tailwindcss&logoColor=61DAFB
 [TailwindCSS-url]: https://tailwindcss.com/
 
+[Redux]: https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=7247b5
 
+[Firebase]: https://img.shields.io/badge/Firebase-20232A?style=for-the-badge&logo=firebase&logoColor=ffcb2d
+
+[Storybook]: https://img.shields.io/badge/Storybook-20232A?style=for-the-badge&logo=storybook&logoColor=ff4785
+
+[Jest]: https://img.shields.io/badge/Jest-20232A?style=for-the-badge&logo=jest&logoColor=9c475f
 
 [Adobe Photoshop]: https://img.shields.io/badge/ADOBE%20PHOTOSHOP-20232A?style=for-the-badge&logo=adobephotoshop&logoColor=3a7dc8
 
 [just-do-it-url]: https://todo-app-cuongcode.vercel.app/
 [portfolio-management-url]: https://portfolio-management-pi.vercel.app/
+[we-order-url]: https://we-order-omega.vercel.app/
